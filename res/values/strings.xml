@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">TwitterGalileo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">TwitterGalileo</string>
+    <string name="txt_btnSearch">Buscar en Twitter</string>
+
+</resources>
